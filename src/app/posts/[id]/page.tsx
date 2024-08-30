@@ -1,4 +1,3 @@
-import axios from "axios";
 import LikeButton from "@/components/LikeButton";
 import prisma from "@/lib/db";
 import { notFound } from "next/navigation";
